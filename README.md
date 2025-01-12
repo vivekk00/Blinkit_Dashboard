@@ -23,3 +23,8 @@
 
 ## Dashboard
 ![Screenshot 2024-10-28 221905](https://github.com/user-attachments/assets/b09b8c1a-0748-4a7d-83ab-a497be9afc6c)
+
+
+## Final Conclusion
+
+This Blinkit sales dashboard provides an overview of sales performance, broken down by outlet size, location, item type, and time. Key metrics like total sales, average rating, and average sales are prominently displayed. Filter controls allow for more granular analysis. However, some visual elements and data presentation could be improved for better clarity.
