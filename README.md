@@ -20,3 +20,6 @@
 - What is the average customer rating? 
 - What is the average sales value per transaction/customer? 
 - How many items were sold in total?
+
+## Dashboard
+![Screenshot 2024-10-28 221905](https://github.com/user-attachments/assets/b09b8c1a-0748-4a7d-83ab-a497be9afc6c)
