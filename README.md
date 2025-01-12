@@ -7,4 +7,6 @@
 - Analyze the relationship between sales performance and key factors.
 
 ## Dataset used
-<a href="https://github.com/vivekk00/Blinkit_Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset </a>
+- <a href="https://github.com/vivekk00/Blinkit_Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset </a>
+
+## Question(KPIs)
